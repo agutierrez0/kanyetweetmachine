@@ -1,0 +1,2 @@
+# kanyetweetmachine
+## GENERATE KANYE TWEETS
